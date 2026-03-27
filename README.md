@@ -1,4 +1,6 @@
 # ols_reg
+<a href="https://example.com">ols_regression</a> © 2026 by <a href="https://example.com">Osmond Selorm Anthonio</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 Linear Regression Analysis in R
 
 This repository contains an R script that performs simple and multiple linear regression analyses on wage data. The project demonstrates key steps in regression modeling, including plotting, calculating residuals, and interpreting results.
